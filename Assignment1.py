@@ -224,10 +224,10 @@
 
 #Q23.Print numbers from 1 to 20, but stop the loop when the number becomes 15.
 
-for i in range(1,20):
-      if i==15:
-          break
-      print(i)
+# for i in range(1,20):
+#       if i==15:
+#           break
+#       print(i)
 
 #Q24.Print numbers from 1 to 20, skipping all multiples of 3.
 
