@@ -1,1 +1,0 @@
-# poly_batch2_assignment
